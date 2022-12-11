@@ -1,0 +1,3 @@
+[submodule "CSC317_raster_image"]
+	path = CSC317_raster_image
+	url = https://github.com/Winnerrang/CSC317_raster_image.git
