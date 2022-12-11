@@ -1,3 +1,24 @@
 [submodule "CSC317_raster_image"]
 	path = CSC317_raster_image
 	url = https://github.com/Winnerrang/CSC317_raster_image.git
+[submodule "CSC317_ray_casting"]
+	path = CSC317_ray_casting
+	url = https://github.com/Winnerrang/CSC317_ray_casting.git
+[submodule "CSC317_ray_tracing"]
+	path = CSC317_ray_tracing
+	url = https://github.com/Winnerrang/CSC317_ray_tracing.git
+[submodule "CSC317_bounding_volume_hierarchy"]
+	path = CSC317_bounding_volume_hierarchy
+	url = https://github.com/Winnerrang/CSC317_bounding_volume_hierarchy.git
+[submodule "CSC317_mesh"]
+	path = CSC317_mesh
+	url = https://github.com/Winnerrang/CSC317_mesh.git
+[submodule "CSC317_Graphics_Shader_Pipeline"]
+	path = CSC317_Graphics_Shader_Pipeline
+	url = https://github.com/Winnerrang/CSC317_Graphics_Shader_Pipeline.git
+[submodule "CSC317_kinematics"]
+	path = CSC317_kinematics
+	url = https://github.com/Winnerrang/CSC317_kinematics.git
+[submodule "CSC317_mass_spring_system"]
+	path = CSC317_mass_spring_system
+	url = https://github.com/Winnerrang/CSC317_mass_spring_system.git
