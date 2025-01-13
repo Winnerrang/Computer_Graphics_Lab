@@ -18,4 +18,4 @@ Below are a short description about the features I implemented in each submodule
 
 **Kinematics**: forward&inverse kinematics, linear blend skinning, and keyframe animation.
 
-**Mass Spring Sytem**: fast mass-spring system using sparse matrix.
+**Mass Spring Sytem**: fast mass-spring system for cloth simulation using sparse matrix.
